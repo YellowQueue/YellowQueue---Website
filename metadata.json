@@ -1,0 +1,6 @@
+{
+  "name": "YellowQueue",
+  "description": "Smart automated desktop print queue management software for print shops, institutions, and high-volume commercial centers by Swami Computers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
